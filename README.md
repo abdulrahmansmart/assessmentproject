@@ -73,5 +73,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 First open terminal and use this (npm install -g json-server),
 and again tab+ open one more terminal and use this (json-server --watch db.json --port 3030),
-and install the node modules (npm install),
+and install the node modules with (npm install),
 and run this program with (npm start).

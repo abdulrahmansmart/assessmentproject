@@ -68,3 +68,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### How to run this program (follow this instructions)
+
+First open terminal and use this (npm install -g json-server)
+and again tab+ open more terminal and use this (json-server --watch db.json --port 3030)
+and install the node modules (npm install)
+and run this program with (npm start)
